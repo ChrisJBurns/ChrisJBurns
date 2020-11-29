@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" alt="GIF" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/master/code.gif?raw=true" width="600" height="380" />
+
 <!--
 **ChrisJBurns/ChrisJBurns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
