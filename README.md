@@ -1,18 +1,9 @@
-### Hi there 👋
+<img align="center" alt="GIF" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/code.gif?raw=true" width="800" height="500" />
 
-<img align="center" alt="GIF" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/code.gif?raw=true" width="700" height="450" />
-
-<!--
-**ChrisJBurns/ChrisJBurns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Chris, an Engineer working currently for the OSCE (Open Source Cloud Engineering) team at Capgemini.
+</br>
+</br>
+You can also find me on the [Capgemini Engineering Blog](https://capgemini.github.io/authors/#author-chris-burns).
+</br>
+</br>
+Personal website: [https://chrisjburns.com/](https://chrisjburns.com/)
