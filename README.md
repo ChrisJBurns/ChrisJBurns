@@ -1,9 +1,16 @@
 <img align="center" alt="GIF" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/code.gif?raw=true" width="800" height="500" />
 
-Hi, I'm Chris, an Engineer working currently for the OSCE (Open Source Cloud Engineering) team at Capgemini.
+[![Visits Badge](https://badges.pufler.dev/visits/chrisjburns/chrisjburns)](https://badges.pufler.dev/visits/chrisjburns/chrisjburns)
 </br>
 </br>
-You can also find me on the [Capgemini Engineering Blog](https://capgemini.github.io/authors/#author-chris-burns).
+🔭 I’m currently working as a Software Engineer for the OSCE (Open Source Cloud Engineering) at Capgemini.
 </br>
 </br>
-Personal website: [https://chrisjburns.com/](https://chrisjburns.com/)
+♠️ The wearer of many hats, but at the core - an engineer.
+</br>
+</br>
+💠 Can also find me on the [Capgemini Engineering Blog](https://capgemini.github.io/authors/#author-chris-burns)
+</br>
+</br>
+🧪 Personal website: [https://chrisjburns.com/](https://chrisjburns.com/)
+
