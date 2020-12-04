@@ -13,4 +13,8 @@
 </br>
 </br>
 🧪 Personal website: [https://chrisjburns.com/](https://chrisjburns.com/)
-
+</br>
+⚙️ In efforts to learn as many languages as possible, I am writing a [mergesort algorithm](https://github.com/ChrisJBurns/mergesort-challenge) in each one.
+</br>
+🎄 [AdventOfCode2020](https://github.com/ChrisJBurns/adventofcode2020) attempts
+</br>
