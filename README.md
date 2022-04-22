@@ -3,10 +3,10 @@
 [![Visits Badge](https://badges.pufler.dev/visits/chrisjburns/chrisjburns)](https://badges.pufler.dev/visits/chrisjburns/chrisjburns)
 </br>
 </br>
-🔭 I’m currently working as a Software Engineer for the OSCE (Open Source Cloud Engineering) at Capgemini.
+🔭 Currently working as a Senior Software Engineer for the Cloud Development team at Capgemini. (Formerly OSCE (Open Source Cloud Engineering) team).
 </br>
 </br>
-♠️ The wearer of many hats, but at the core - an engineer.
+♠️ The wearer of many hats, but at the core - an engineer, with a specific interest in securing the software supply chain.
 </br>
 </br>
 💠 Can also find me on the [Capgemini Engineering Blog](https://capgemini.github.io/authors/#author-chris-burns)
@@ -14,7 +14,4 @@
 </br>
 🧪 Personal website: [https://chrisjburns.com/](https://chrisjburns.com/)
 </br>
-⚙️ In efforts to learn as many languages as possible, I am writing a [mergesort algorithm](https://github.com/ChrisJBurns/mergesort-challenge) in each one.
-</br>
-🎄 [AdventOfCode2020](https://github.com/ChrisJBurns/adventofcode2020) attempts
 </br>
