@@ -19,10 +19,15 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/ChrisJBurns/ChrisJBurns/blob/master/metrics.classic.svg">
+      <img src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.classic.svg">
     </td>
     <td align="center">
-      <img src="https://github.com/ChrisJBurns/ChrisJBurns/blob/master/metrics.plugin.achievements.svg">
+      <img src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.svg">
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.reactions.svg">
     </td>
   </tr>
 </table>
