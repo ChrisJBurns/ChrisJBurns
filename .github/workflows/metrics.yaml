@@ -3,6 +3,9 @@
 name: Lowlighter Metrics
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 12AM EST (midnight)
     - cron: '0 5 * * *'
@@ -21,6 +24,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
+          
+      - name: Comment reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
           
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
