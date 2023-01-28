@@ -16,6 +16,17 @@
 </br>
 </br>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/ChrisJBurns/ChrisJBurns/blob/master/metrics.classic.svg">
+    </td>
+    <td align="center">
+      <img src="https://github.com/ChrisJBurns/ChrisJBurns/blob/master/metrics.plugin.achievements.svg">
+    </td>
+  </tr>
+</table>
+
 ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisjburns&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chrisjburns)](https://github-profile-trophy.vercel.app/?username=chrisjburns&theme=matrix&no-frame=true&margin-w=10&column=7)
