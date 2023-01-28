@@ -1,4 +1,5 @@
-<img align="center" alt="GIF" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/code.gif?raw=true" width="800" height="500" />
+[<img align="left" width="390" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.classic.svg">](#)
+[<img align="right" width="150" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.svg">](#)
 
 [![Visits Badge](https://badges.pufler.dev/visits/chrisjburns/chrisjburns)](https://badges.pufler.dev/visits/chrisjburns/chrisjburns)
 </br>
