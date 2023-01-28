@@ -1,6 +1,7 @@
-[<img align="left" width="400" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/general.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.details.svg">](#)
+[<img align="left" width="500" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/general.svg">](#)
+[<img align="right" width="460" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.details.svg">](#)
 [<img align="left" width="390" alt="🦑" src="metrics.plugin.reactions.svg">](#)
+
 
 
 
