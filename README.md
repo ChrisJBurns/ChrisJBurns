@@ -15,3 +15,7 @@
 🧪 Personal website: [https://chrisjburns.com/](https://chrisjburns.com/)
 </br>
 </br>
+
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisjburns&show_icons=true&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chrisjburns)](https://github-profile-trophy.vercel.app/?username=chrisjburns&theme=matrix&no-frame=true&margin-w=10&column=7)
