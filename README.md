@@ -1,5 +1,5 @@
-[<img align="left" width="390" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.classic.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.svg">](#)
+[<img align="left" width="500" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/general.svg">](#)
+[<img align="right" width="500" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.svg">](#)
 
 
 
