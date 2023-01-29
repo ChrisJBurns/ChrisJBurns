@@ -2,17 +2,13 @@
 [<img align="right" width="400" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.compact.svg">](#)
 [<img align="right" width="390" height="40" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
-</br>
-</br>
-🔭 Currently working as a Senior Software Engineer for the Cloud Development team at Capgemini. (Formerly OSCE (Open Source Cloud Engineering) team).
-</br>
-</br>
-♠️ The wearer of many hats, but at the core - an engineer, with a specific interest in securing the software supply chain.
-</br>
-</br>
-💠 Can also find me on the [Capgemini Engineering Blog](https://capgemini.github.io/authors/#author-chris-burns)
-</br>
-</br>
-🧪 Personal website: [https://chrisjburns.com/](https://chrisjburns.com/)
-</br>
-</br>
+<hr>
+<p align="center">
+   <i>The wearer of many hats, but at the core - an engineer, with a specific interest in building platforms, applications and securing the software supply chain.</i>
+<br>
+
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/chris-j-burns/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a target="_blank"href="https://chrisjburns.com"><img src="https://img.shields.io/badge/Website-chrisjburns.com-black?style=for-the-badge" />          </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
