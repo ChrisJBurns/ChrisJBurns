@@ -6,9 +6,7 @@
 <p align="center">
    <i>The wearer of many hats, but at the core - an engineer, with a specific interest in building platforms, applications and securing the software supply chain.</i>
 <br>
-
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/chris-j-burns/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a target="_blank"href="https://chrisjburns.com"><img src="https://img.shields.io/badge/Website-chrisjburns.com-black?style=for-the-badge" />          </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
