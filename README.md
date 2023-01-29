@@ -1,6 +1,6 @@
 [<img align="left" width="405" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/general.svg">](#)
 [<img align="right" width="400" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.compact.svg">](#)
-
+[<img align="right" width="390" height="31" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">](#)
 
 </br>
 </br>
