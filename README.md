@@ -1,8 +1,5 @@
 [<img align="left" width="405" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/general.svg">](#)
 [<img align="right" width="400" alt="🦑" src="https://github.com/ChrisJBurns/ChrisJBurns/blob/main/metrics.plugin.achievements.details.svg">](#)
-[<img align="right" width="400" alt="🦑" src="metrics.plugin.personal.website.svg">](#)
-
-
 
 
 </br>
