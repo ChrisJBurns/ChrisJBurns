@@ -842,7 +842,7 @@
                     </section>
                 </div>
             </section>
-            <div class="row">
+<!--             <div class="row">
                 <section>
                     <h2 class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -866,7 +866,7 @@
                         API error: 429 ((consider using "plugin_pagespeed_token"))
                     </div>
                 </section>
-            </div>
+            </div> -->
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
