@@ -37,7 +37,7 @@ jobs:
           plugin_notable_types: commit
         
          
-      - name: 🏆 Detailed Achievements, Reactions & Personal Website PageSpeed
+      - name: 🏆 Detailed Achievements, Reactions & Coding Habits
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
@@ -56,4 +56,4 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: Europe/Paris
+          config_timezone: Europe/London
