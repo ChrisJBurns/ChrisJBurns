@@ -42,7 +42,7 @@ jobs:
         #   - lowlighter/metrics#1706 Projects V2 migration (Manager achievement)
         #   - lowlighter/metrics#1739 habits plugin null-commit guard
         # taken from PR lowlighter/metrics#1769 until merged upstream.
-        uses: ChrisJBurns/metrics@ca58c6bb513e4a04afca0ad2e46b943b543f74cc
+        uses: ChrisJBurns/metrics@b96c86b2ab478965e35f1c1fe8de96d43e0972b6
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
