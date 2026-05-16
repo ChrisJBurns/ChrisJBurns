@@ -38,11 +38,11 @@ jobs:
          
       - name: 🏆 Detailed Achievements, Reactions & Coding Habits
         # uses: lowlighter/metrics@latest
-        # uses the fork from https://github.com/lowlighter/metrics/pull/1769 which bundles:
-        #   - #1706 Projects V2 migration (Manager achievement)
-        #   - #1739 habits plugin null-commit guard
-        # until both are merged upstream.
-        uses: dkhokhlov/metrics@ca58c6bb513e4a04afca0ad2e46b943b543f74cc
+        # uses our own fork that bundles upstream master + fixes for:
+        #   - lowlighter/metrics#1706 Projects V2 migration (Manager achievement)
+        #   - lowlighter/metrics#1739 habits plugin null-commit guard
+        # taken from PR lowlighter/metrics#1769 until merged upstream.
+        uses: ChrisJBurns/metrics@ca58c6bb513e4a04afca0ad2e46b943b543f74cc
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
