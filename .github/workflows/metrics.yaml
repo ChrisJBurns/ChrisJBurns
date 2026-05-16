@@ -16,7 +16,9 @@ jobs:
     steps:
       - name: 🙋 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        # using our own fork that adds repositoriesContributedTo aggregation
+        # to the languages plugin, so public org contributions show up too.
+        uses: ChrisJBurns/metrics@7e5278815699affb27f2497bff70ba337ca729ec
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -42,7 +44,7 @@ jobs:
         #   - lowlighter/metrics#1706 Projects V2 migration (Manager achievement)
         #   - lowlighter/metrics#1739 habits plugin null-commit guard
         # taken from PR lowlighter/metrics#1769 until merged upstream.
-        uses: ChrisJBurns/metrics@b96c86b2ab478965e35f1c1fe8de96d43e0972b6
+        uses: ChrisJBurns/metrics@7e5278815699affb27f2497bff70ba337ca729ec
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
